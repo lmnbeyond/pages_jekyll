@@ -3,7 +3,7 @@ layout: post
 title: learn markdown
 ---
 <h2>{{ page.title }}</h2>
-================
+
 Pare One:
 ---------
 <b><a href="http://jianshu.io/p/q81RER">献给写作者的 Markdown 新手指南</a></b>  
